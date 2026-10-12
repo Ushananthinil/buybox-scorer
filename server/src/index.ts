@@ -10,7 +10,7 @@ import { creditsSavedPct, scoreAll } from "./lib/scoring.js";
 import { BuyBox, DEFAULT_WEIGHTS, Lead, ScoredLead, Signals } from "./lib/types.js";
 
 const app = express();
-app.use(cors({ origin: process.env.CLIENT_ORIGIN ?? "http://localhost:5173" }));
+app.use(cors({ origin: process.env.CLIENT_ORIGIN ? [process.env.CLIENT_ORIGIN] : ["http://localhost:5173", "http://localhost:5174"] }));
 app.use(express.json({ limit: "5mb" }));
 
 // ---- In-memory store (single-user demo; see docs/ARCHITECTURE.md for the Postgres upgrade path) ----
