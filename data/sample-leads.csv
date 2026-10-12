@@ -1,0 +1,31 @@
+company_name,website,phone,city,state,country,industry,employee_count,revenue_estimate
+Maple Ridge HVAC,mapleridgehvac.example,555 0100-1000,Columbus,OH,US,HVAC,18,2400000
+MAPLE RIDGE HVAC LLC,,555 0100-1000,Columbus,OH,,HVAC,,
+Lakeshore Plumbing,lakeshoreplumbing.example,555 0101-1007,Cleveland,OH,US,Plumbing,24,3100000
+Summit Roofing,summitroofing.example,555 0102-1014,Pittsburgh,PA,US,Roofing,35,5200000
+Keystone Landscaping,keystonelandscaping.example,555 0103-1021,Harrisburg,PA,US,Landscaping,14,1300000
+Brightwater Pool Service,brightwaterpoolservice.example,555 0104-1028,Tampa,FL,US,Pool Services,12,1800000
+BRIGHTWATER POOL SERVICE LLC,,555 0104-1028,Tampa,FL,,Pool Services,,
+Ironclad Auto Repair,ironcladautorepair.example,555 0105-1035,Dayton,OH,US,Auto Repair,9,1100000
+Northgate Electric,northgateelectric.example,555 0106-1042,Erie,PA,US,Electrical,28,4600000
+Cedar Point Cleaning,cedarpointcleaning.example,555 0107-1049,Toledo,OH,US,Janitorial,40,2900000
+Harbor Light Dental,harborlightdental.example,555 0108-1056,Orlando,FL,US,Dental,16,3800000
+HARBOR LIGHT DENTAL LLC,,555 0108-1056,Orlando,FL,,Dental,,
+Prairie Wind Pest Control,prairiewindpestcontrol.example,555 0109-1063,Omaha,NE,US,Pest Control,20,2700000
+Redwood Fencing,redwoodfencing.example,555 0110-1070,Akron,OH,US,Fencing,11,1500000
+Granite State Moving,granitestatemoving.example,555 0111-1077,Concord,NH,US,Moving,22,2200000
+Silverline Printing,silverlineprinting.example,555 0112-1084,Buffalo,NY,US,Printing,17,2000000
+SILVERLINE PRINTING LLC,,555 0112-1084,Buffalo,NY,,Printing,,
+Oakview Veterinary,oakviewveterinary.example,555 0113-1091,Raleigh,NC,US,Veterinary,19,3300000
+Blue Heron Tax Services,blueherontaxservices.example,555 0114-1098,Charleston,SC,US,Accounting,8,950000
+Copperfield Machine Shop,copperfieldmachineshop.example,555 0115-1105,Youngstown,OH,US,Machining,30,6100000
+Riverbend Self Storage,riverbendselfstorage.example,555 0116-1112,Lexington,KY,US,Self Storage,6,1700000
+RIVERBEND SELF STORAGE LLC,,555 0116-1112,Lexington,KY,,Self Storage,,
+Pioneer Sign Company,pioneersigncompany.example,555 0117-1119,Canton,OH,US,Signage,13,1900000
+Evergreen Tree Care,evergreentreecare.example,555 0118-1126,Allentown,PA,US,Landscaping,15,1600000
+Starlight Laundromat,starlightlaundromat.example,555 0119-1133,Mobile,AL,US,Laundry,7,800000
+Anchor Bay Marine Repair,anchorbaymarinerepair.example,555 0120-1140,Sarasota,FL,US,Marine Services,10,1400000
+ANCHOR BAY MARINE REPAIR LLC,,555 0120-1140,Sarasota,FL,,Marine Services,,
+Timberline Cabinets,timberlinecabinets.example,555 0121-1147,Scranton,PA,US,Woodworking,21,2800000
+Metro Courier Express,metrocourierexpress.example,555 0122-1154,Cincinnati,OH,US,Logistics,45,4200000
+Golden Hour Photography,goldenhourphotography.example,555 0123-1161,Nashville,TN,US,Photography,4,450000
